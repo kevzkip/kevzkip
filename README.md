@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning ML & IA
 - 💞️ I’m looking to collaborate on ML & IA
 - 📫 How to reach me www.linkedin.com/in/kipkorir-kevin-lang-at-4254a6239
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+
+
+
 
 
   Languages
