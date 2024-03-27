@@ -7,17 +7,12 @@
   
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-
-
-
-
-  Languages
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,js,c,dart,html,css)](https://skillicons.dev)
 
-    Tools
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,powershell,ubuntu)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,vscode,powershell,ubuntu)](https://skillicons.dev)
 
 <!---
 kevzkip/kevzkip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
