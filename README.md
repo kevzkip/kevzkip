@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on ML & IA
 - 📫 How to reach me www.linkedin.com/in/kipkorir-kevin-lang-at-4254a6239
 
-                                    Languages
+Languages
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,js,c,dart,html,css)](https://skillicons.dev)
 
-                                       Tools
+Tools
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,powershell,ubuntu)](https://skillicons.dev)
 
 <!---
