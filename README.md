@@ -5,7 +5,10 @@
 - 📫 How to reach me www.linkedin.com/in/kipkorir-kevin-lang-at-4254a6239
 
  
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,c,git,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,c,dart,html,css)](https://skillicons.dev)
+
+
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,powershell,ubuntu)](https://skillicons.dev)
 
 <!---
 kevzkip/kevzkip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
