@@ -13,4 +13,4 @@
 kevzkip/kevzkip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Kevins's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevzkip&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kevzkip&theme=transparent)](https://git.io/streak-stats)
